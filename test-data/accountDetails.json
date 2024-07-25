@@ -1,0 +1,25 @@
+{
+  "account_name": "Qa Name",
+  "email": "Qa@Email.qa",
+  "password": "Password",
+  "dob": {
+      "days": "4",
+      "months": "8",
+      "years": "2001"
+  },
+  "first_name": "John",
+  "last_name": "Smith",
+  "company": "Personal",
+  "address": "21 Grove Street",
+  "country": "United States",
+  "state": "Hungry",
+  "city": "Capitol City",
+  "zipcode": "0sh 14a",
+  "mobile_number": "0123 456789",
+  "paymentDetails": {
+      "card_number": "5400437018685973",
+      "card_cvc": "008",
+      "card_expiry_month": "04",
+      "card_expiry_year": "2030"
+  }
+}
